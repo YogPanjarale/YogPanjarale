@@ -3,7 +3,7 @@
 ## Skills/Learning
 * <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React
 * **📱**React Native
-* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/HTML5.svg" />HTML, <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/CSS3.svg" />CSS & <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/JavaScript.svg" />Javascript  
+* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />HTML, <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />CSS & <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />Javascript  
 ## Trying to learn 
 * <img height="18" width="18" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte
 * <img height="18" width="18" style="fill:'#01f" src="https://unpkg.com/simple-icons@v4/icons/flutter.svg" /> Flutter
