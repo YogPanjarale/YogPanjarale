@@ -1,12 +1,12 @@
 ## Hi there 👋, I am [Yog Panjarale](https://github.com/YogPanjarale)
 ##### WhitehatJr-Student ,App-Dev, Game-dev,web-dev
 ## Skills/Learning
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS & Javascript  
+* <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React
+* **📱**React Native
+* **💻** HTML, CSS & Javascript  
 ## Trying to learn 
-* <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte
-* <img height="32" width="32" style="fill:'#01f" src="https://unpkg.com/simple-icons@v4/icons/flutter.svg" /> Flutter
+* <img height="18" width="18" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte
+* <img height="18" width="18" style="fill:'#01f" src="https://unpkg.com/simple-icons@v4/icons/flutter.svg" /> Flutter
 
 ## Socials 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/YogPanjarale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/yogpanjarale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yog-panjarale-99b15b1b0//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yogpanjarale/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14253516/yog-panjarale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCyeK6QtX7dY3HBVAV7-IRYQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@yog.panjarale)  
