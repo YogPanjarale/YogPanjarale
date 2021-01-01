@@ -1,4 +1,4 @@
-## Hi there 👋, I am [Yog Panjarale](https://github.com/YogPanjarale),A 14 year old (in 2020)
+## Hi there 👋, I am [Yog Panjarale](https://github.com/YogPanjarale)
 ##### WhitehatJr-Student ,App-Dev, Game-dev,web-dev
 ## Skills/Learning
 * <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React
