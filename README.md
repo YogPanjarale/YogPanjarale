@@ -7,6 +7,7 @@
 ## Curently learning 
 * **🐍**Python
 * Raspberry Pi Pico
+* Arduino 
 ## Trying to learn 
 * <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte
 * <img height="20" width="20" style="fill:'#01f" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> Flutter
