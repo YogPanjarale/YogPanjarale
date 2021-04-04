@@ -7,6 +7,7 @@
 ## Curently learning 
 * <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 * <img alt="arduino" src="https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white"/> 
+* <img alt="ReactJs" src="https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 ## Trying to learn 
 <!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
 * <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white" />
