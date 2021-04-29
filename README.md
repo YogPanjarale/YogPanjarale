@@ -3,7 +3,8 @@
 ## Skills/Learning
 <!--* <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React-->
 * **📱**React Native
-* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML, <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS & <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript  
+* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML, <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS & <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript 
+* **🐍**Python
 ## Curently learning 
 * <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 * <img alt="arduino" src="https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white"/> 
