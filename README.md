@@ -19,9 +19,12 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+## Fun Facts
+
+- I have about 100 or more [Vs code](https://github.com/microsoft/vscode) Extensions installed
+- I started my coding journey in the summer of 2020 due to Covid
 
 ## Stats
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YogPanjarale&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
