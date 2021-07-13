@@ -29,7 +29,7 @@
 ## Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YogPanjarale&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/yogpanjarale)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YogPanjarale&theme=ayu-mirage&hide_border=true)](https://github.com/yogpanjarale)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YogPanjarale&theme=ayu-mirage&hide_border=true&)](https://github.com/yogpanjarale)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
