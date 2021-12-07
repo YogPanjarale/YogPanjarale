@@ -15,13 +15,15 @@ WhitehatJr-Student ,App-Dev, Game-dev,web-dev
 ## Curently learning
 
 * ![arduino](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
-* ![dgraph](https://img.shields.io/badge/dgraph%20-%2314354C.svg?&style=for-the-badge&logo=dgraph&logoColor=white&color=red "Dgraph")
+* ![mongodb](https://img.shields.io/badge/mongodb%20-%023430.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=#023430 "Mongodb")
 
 ## Trying to learn
 <!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
 * ![flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
 * ![unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black "Unity")
-
+* ![dgraph](https://img.shields.io/badge/dgraph%20-%2314354C.svg?&style=for-the-badge&logo=dgraph&logoColor=white&color=red "Dgraph")
+* ![Svelte](https://img.shields.io/badge/svelte%20-%023430.svg?&style=for-the-badge&logo=svelte&logoColor=white&color=orange"Svelte")
+* 
 ## Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/YogPanjarale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/yogpanjarale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yog-panjarale-99b15b1b0//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yogpanjarale/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14253516/yog-panjarale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCyeK6QtX7dY3HBVAV7-IRYQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@yog.panjarale)  
