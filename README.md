@@ -1,6 +1,6 @@
 # Hi there 👋, I am [Yog Panjarale](https://github.com/YogPanjarale)
 
-WhitehatJr-Student ,App-Dev, Game-dev,web-dev
+App-Dev, Game-dev,web-dev
 ![](https://hit.yhype.me/github/profile?user_id=64301340)
 
 ## Skills/Learning
