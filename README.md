@@ -11,13 +11,13 @@ App-Dev, Game-dev,web-dev
 * **🐍**Python
 * <img src="https://blr1.blynk.cloud/favicon.ico" style="position:relative;top: 10px;"> Blynk IOT
 * ![React](https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white "React")
-
+<!--
 ## Curently learning
-
+-->
 * ![arduino](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
 * ![mongodb](https://img.shields.io/badge/mongodb%20-%023430.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=#023430 "Mongodb")
 
-## Trying to learn
+## Was Trying to learn
 <!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
 * ![flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
 * ![unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black "Unity")
