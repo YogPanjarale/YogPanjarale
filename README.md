@@ -36,13 +36,42 @@ App-Dev, Game-dev,web-dev
 * I have about 100 or more [Vs code](https://github.com/microsoft/vscode) Extensions installed
 * I started my coding journey in the summer of 2020 due to Covid
 
-## Stats
+
+<details>
+  <summary>
+    Github Stats
+  </summary>
+<!--   <a href="https://github.com/yogpanjarale">
+  <img src="https://github-readme-stats.vercel.app/api?username=YogPanjarale&show_icons=true&theme=ayu-mirage&hide_border=true" alt="GitHub stats" />
+</a>
+
+<a href="https://github.com/yogpanjarale">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=YogPanjarale&theme=ayu-mirage&hide_border=true&" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Langs" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YogPanjarale&layout=compact&theme=ayu-mirage&hide_border=true" alt="YogPanjarale's wakatime stats" />
+</a> -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YogPanjarale&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/yogpanjarale)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YogPanjarale&theme=ayu-mirage&hide_border=true&)](https://github.com/yogpanjarale)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![YogPanjarale's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YogPanjarale&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/YogPanjarale)  
+</details>
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YogPanjarale&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/yogpanjarale)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YogPanjarale&theme=ayu-mirage&hide_border=true&)](https://github.com/yogpanjarale)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![YogPanjarale's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YogPanjarale&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ ![Yog Panjarale :: Visitor's Count](ttps://profile-counter.glitch.me/dhravya/count.svg) -->
+ 
+<img src="https://profile-counter.glitch.me/yogpanjarale/count.svg" alt="Yog Panjarale :: Visitor's Count" />
+
