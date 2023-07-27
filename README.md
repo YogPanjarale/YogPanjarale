@@ -74,5 +74,5 @@ App-Dev, Game-dev,web-dev
 [![YogPanjarale's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YogPanjarale&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  ![Yog Panjarale :: Visitor's Count](ttps://profile-counter.glitch.me/dhravya/count.svg) -->
  
-<img src="https://profile-counter.deno.dev/yogpanjarale/count.svg" alt="Yog Panjarale :: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/YogPanjarale/count.svg" alt="Yog Panjarale :: Visitor's Count" />
 
