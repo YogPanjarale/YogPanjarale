@@ -67,13 +67,8 @@ App-Dev, Game-dev,web-dev
 <img src="https://profile-counter.glitch.me/yogpanjarale/count.svg" alt="Yog Panjarale :: Visitor's Count" />
 
 </details>
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YogPanjarale&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/yogpanjarale)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YogPanjarale&theme=ayu-mirage&hide_border=true&)](https://github.com/yogpanjarale)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![YogPanjarale's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YogPanjarale&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- ![Yog Panjarale :: Visitor's Count](ttps://profile-counter.glitch.me/dhravya/count.svg) -->
 
-<!-- i made a profile counter svg just use it as image in your site with the key you want -->
+
+<!-- i made a profile counter svg just use it as image in your site with the key you want https://github.com/YogPanjarale/profile-counter -->
 <img src="https://profile-counter.deno.dev/yogg/count.svg" alt="Yog Panjarale :: Visitor's Count" />
 
