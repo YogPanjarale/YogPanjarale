@@ -1,28 +1,11 @@
 # Hi there 👋, I am [Yog Panjarale](https://github.com/YogPanjarale)
 
-App-Dev, Game-dev,web-dev
+Generalist - Software, Hardware, Electronics 
 ![](https://hit.yhype.me/github/profile?user_id=64301340)
 
-## Skills/Learning
-<!--* <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React-->
-* **📱**React Native
-* NextJs,Typescript , TailwindCss
-* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML, <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS & <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript
-* **🐍**Python
-* <img src="https://blr1.blynk.cloud/favicon.ico" style="position:relative;top: 10px;"> Blynk IOT
-* ![React](https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white "React")
-<!--
-## Curently learning
--->
-* ![arduino](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
-* ![mongodb](https://img.shields.io/badge/mongodb%20-%023430.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=#023430 "Mongodb")
+## Skills
 
-## Was Trying to learn
-<!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
-* ![flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
-* ![unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black "Unity")
-* ![dgraph](https://img.shields.io/badge/dgraph%20-%2314354C.svg?&style=for-the-badge&logo=dgraph&logoColor=white&color=red "Dgraph")
-* ![Svelte](https://img.shields.io/badge/svelte%20-%023430.svg?&style=for-the-badge&logo=svelte&logoColor=white&color=red "Svelte")
+yes
 
 ## Socials
 
